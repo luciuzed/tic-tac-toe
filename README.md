@@ -2,4 +2,4 @@
 
 Built with HTML, CSS, and Javascript
 
-[Live Demo](https://edluciuz.github.io/tic-tac-toe/)
+[Live Demo](https://luciuzed.github.io/tic-tac-toe/)
